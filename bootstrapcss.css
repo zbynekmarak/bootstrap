@@ -1,0 +1,8 @@
+
+.btn-info{
+	background-color: lightsalmon;
+}
+
+.btn-info:hover {
+background-color: darkgrey;
+}
